@@ -29,7 +29,8 @@ Netlify	Hosting & deployment
 
 🧰 How to Run Locally
  Clone the repository
-git clone https://github.com/sYEDARHAAN76/Food-Delivery-WebApp.git
+git clone https://github.com/Syedarhaan76/Food-Delivery-WebApp.git
 
 2️ Enter project folder
 cd Food-Delivery-WebApp
+
